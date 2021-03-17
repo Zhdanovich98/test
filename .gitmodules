@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/Zhdanovich98/data.git
+[submodule "mysql_data"]
+	path = mysql_data
+	url = https://github.com/Zhdanovich98/mysql_data.git
