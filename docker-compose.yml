@@ -2,8 +2,8 @@ version: '3'
 
 services:
   nginx:
-#      image: nginx:latest
-      image: ${IMAGE}
+      image: nginx:latest
+#      image: ${IMAGE}
       ports:
           - "8088:80"
 #      depends_on: 
